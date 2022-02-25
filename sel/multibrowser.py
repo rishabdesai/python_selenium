@@ -1,4 +1,14 @@
 # ref videos  https://www.youtube.com/watch?v=o3tYiyE_OXE
+"""
+command to learn
+driver.get()
+driver.title
+driver.current_url
+driver.find.element
+click()
+driver.quit()
+"""
+
 import time
 
 from selenium import webdriver
